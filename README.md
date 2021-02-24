@@ -1,1 +1,1 @@
-youtube clone with react
+리액트로 만든 유튜브
